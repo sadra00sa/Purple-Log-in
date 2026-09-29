@@ -2,11 +2,14 @@
 
 A simple and responsive login page built with **HTML5** and **CSS3**.
 
+## Live Demo
+
+[View Live Demo →](https://sadra00sa.github.io/Purple-Log-in/)
+
 ## Features
 
 * Responsive login layout
 * Floating input labels
-* Remember me checkbox
 * Hover effects
 * CSS transitions and animations
 * Gradient background
@@ -15,10 +18,6 @@ A simple and responsive login page built with **HTML5** and **CSS3**.
 
 * HTML5
 * CSS3
-
-## Preview
-
-A clean login interface with a modern gradient-based design.
 
 ## Purpose
 
